@@ -5,6 +5,6 @@
 <br />
 <br />
 
-Welcome to my personal webpage! This site is a collection of my projects, interests, and experiences.
+Welcome to my homepage! This may be not fancy at the moment, because I just started to explore that thing.
 
 ![preview](https://github.com/NickBartZwahlen/nickbartzwahlen.github.io/blob/main/images/preview.webp?raw=true)
